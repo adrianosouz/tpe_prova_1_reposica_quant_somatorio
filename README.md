@@ -1,0 +1,1 @@
+# tpe_prova_1_reposica_quant_somatorio
