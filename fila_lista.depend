@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1448733727 source:c:\users\administrador\desktop\fila_lista\fila_lista.c
+	<stdio.h>
+	<stdlib.h>
+	"fila_lista.h"
+
+1448731777 c:\users\administrador\desktop\fila_lista\fila_lista.h
+
+1448733376 source:c:\users\administrador\desktop\fila_lista\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fila_lista.h"
+
+1448931810 source:c:\users\administrador\desktop\fila_lista_pratica\fila_lista.c
+	<stdio.h>
+	<stdlib.h>
+	"fila_lista.h"
+
+1448927483 c:\users\administrador\desktop\fila_lista_pratica\fila_lista.h
+
+1448927483 source:c:\users\administrador\desktop\fila_lista_pratica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fila_lista.h"
+
+1448931810 source:h:\codigos_pratica\pratica_4_fila\fila_lista.c
+	<stdio.h>
+	<stdlib.h>
+	"fila_lista.h"
+
+1448927483 h:\codigos_pratica\pratica_4_fila\fila_lista.h
+
+1448927483 source:h:\codigos_pratica\pratica_4_fila\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fila_lista.h"
+
+1450062717 source:c:\users\administrador\desktop\pen_drive\codigos_pratica\pratica_4_fila\fila_lista.c
+	<stdio.h>
+	<stdlib.h>
+	"fila_lista.h"
+
+1450054696 c:\users\administrador\desktop\pen_drive\codigos_pratica\pratica_4_fila\fila_lista.h
+
+1450062653 source:c:\users\administrador\desktop\pen_drive\codigos_pratica\pratica_4_fila\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fila_lista.h"
+
+1450059117 source:c:\users\administrador.000\desktop\ufc_geral\tpe_codigos_pratica\codigos_pratica_estrutura_de_dados\prova_1_reposicao\fila_lista.c
+	<stdio.h>
+	<stdlib.h>
+	"fila_lista.h"
+
+1450051096 c:\users\administrador.000\desktop\ufc_geral\tpe_codigos_pratica\codigos_pratica_estrutura_de_dados\prova_1_reposicao\fila_lista.h
+
+1450642729 source:c:\users\administrador.000\desktop\ufc_geral\tpe_codigos_pratica\codigos_pratica_estrutura_de_dados\prova_1_reposicao\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fila_lista.h"
+
